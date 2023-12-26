@@ -1,0 +1,2 @@
+nintendo eshop hidden api
+https://api.ec.nintendo.com/v1/price?country=FR&lang=fr&ids=70010000027452
