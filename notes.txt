@@ -10,3 +10,13 @@ https://api.ec.nintendo.com/v1/price?country=FR&lang=fr&ids=70010000027452
 342178569
 861594372
 975326418
+
+coding games
+turing complete
+while true learn
+zachtronics games
+autonauts
+human resource machine
+7 billions humans
+screeps
+virtual circuit board
