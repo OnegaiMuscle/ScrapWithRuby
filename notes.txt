@@ -24,3 +24,11 @@ virtual circuit board
 
 shadcn ui
 rafce
+es7+
+framer-motion
+npm install framer-motion
+npm install react-responsive --save
+npm install lucide-react
+npm install react-intersection-observer --save
+
+
